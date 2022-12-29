@@ -16,7 +16,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("/api/import")
+@RequestMapping("/import")
 public class ImportController {
 
     @Autowired
